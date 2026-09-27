@@ -39,7 +39,13 @@ loading() {
 
 clear
 echo ""
-echo -e "  ${BOLD}${WHITE}SAEKA SSH GATEWAY DEPLOYER (QWIKLABS OPTIMIZED)${RESET}"
+echo -e "  ${BOLD}${WHITE}# ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+# ▓  ⚡ MASTER BILLY SSH GATEWAY DEPLOYER  ⚡
+# ▓        CLOUD RUN EDITION
+# ▓  ───────────────────────────────────────
+# ▓  ✦  CREATED BY MASTER BILLY  ✦
+# ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+ (QWIKLABS OPTIMIZED)${RESET}"
 echo -e "  ${MAGENTA}ENGINEERED BY SAEKA TOJIRP${RESET}"
 echo ""
 
